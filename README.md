@@ -1,7 +1,8 @@
 # Opis projektu:
 
 Projekt ma na celu dodawanie opinii za pomocą przycisków, oraz obliczenie
-procentowe pozytywnych opinii. Zadanie domowe z modułu React.
+procentowe pozytywnych opinii. Zadanie domowe z modułu React. Podgląd live:
+https://damiankaczmarczyk.github.io/goit-react-hw-02-feedback/
 
 # React homework template
 
