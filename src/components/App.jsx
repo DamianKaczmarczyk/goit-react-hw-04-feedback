@@ -50,8 +50,9 @@ class App extends Component {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          fontSize: 40,
+          fontSize: 30,
           color: '#010101',
+          gap:'15px',
         }}
       >
         <>
