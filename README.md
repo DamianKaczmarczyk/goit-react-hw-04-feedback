@@ -10,4 +10,4 @@ https://damiankaczmarczyk.github.io/goit-react-hw-04-feedback/
 
 # screen:
 
-![Alt text](public\react04feedback.png 'screen')
+![Alt text](./public/react04feedback.png 'screen')
